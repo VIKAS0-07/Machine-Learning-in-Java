@@ -30,7 +30,7 @@ Installation and Setup
 1. Clone this repository:
    .. code-block:: bash
 
-      git clone https://github.com/your-username/obesity-classification-java.git
+      git clone https://github.com/VIKAS0-07/Machine-Learning-in-Java.git
 
 2. Add the WEKA and JFreeChart JAR files to your project build path.
 
@@ -67,12 +67,19 @@ Project Structure
 .. code-block:: bash
 
    src/
+   
    ├── main/
+   
    │   ├── java/
+   
    │   │   └── com/example/
+   
    │   │       ├── ObesityClassification.java  # Main Java program
+   
    ├── resources/
+   
    │   └── ObesityDataSet_raw_and_data.csv     # Dataset
+   
 
 Sample Output
 -------------
